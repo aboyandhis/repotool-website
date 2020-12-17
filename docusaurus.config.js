@@ -10,8 +10,8 @@
 module.exports = {
   title: 'Repo Tool',
   tagline: 'GUI Version',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://patkellydesigns.github.io',
+  baseUrl: '/repotool-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.png',
