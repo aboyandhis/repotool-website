@@ -1,5 +1,5 @@
 # Repo-Tool Website
-[Logo](static/img/header-logo.png)
+![website](https://github.com/patkellydesigns/repotool-website/workflows/website/badge.svg?branch=website)
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ### Installation
