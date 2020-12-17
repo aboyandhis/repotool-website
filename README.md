@@ -1,5 +1,5 @@
 # Repo-Tool Website
-
+[Logo](img/header-logo.png)
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
 
 ### Installation
